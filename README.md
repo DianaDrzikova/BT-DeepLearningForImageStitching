@@ -84,3 +84,5 @@ This folder contains pre-trained models from keypoint detection and homography e
 ## /datasets
 
 The folder contains datasetA, datasetB, datasetC, datasetD and evaluation_pipeline. Each dataset is explained in the thesis report.
+
+Datasets B, C, D can be found on link: https://drive.google.com/drive/folders/18lEa9SyP-gIkGCWRjQS5RSz2QsgaYTn0?usp=sharing
